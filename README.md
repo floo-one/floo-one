@@ -19,8 +19,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/gemini?i=py" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
