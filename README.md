@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 Currently building stuff using Nuxt3 </p>
+<p align="left">✨ Creating bugs since 2002<br>📚 Currently building stuff using Nuxt </p>
 
 ###
 
